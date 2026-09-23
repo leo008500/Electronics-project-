@@ -66,8 +66,7 @@ The measured light value can also be sent to ThingSpeak and displayed as a graph
 - Real lamp control using relay
 
 ## Wokwi Project Link
-
-Add your Wokwi link here.
+https://wokwi.com/projects/475871790843209729
 
 ## ThingSpeak Link
 
