@@ -70,4 +70,4 @@ https://wokwi.com/projects/475871790843209729
 
 ## ThingSpeak Link
 
-Add your ThingSpeak link here.
+https://thingspeak.mathworks.com/channels/3505201
